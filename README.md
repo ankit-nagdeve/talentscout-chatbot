@@ -32,86 +32,95 @@ This project is a **Streamlit-based Hiring Assistant chatbot** developed for the
 ## 🛠️ How to Run Locally
 
 ### 1. Clone the Repository
+
 ```bash
-git clone https://github.com/ankit-nagdeve/talentscout-chatbot.git
+git clone https://github.com/yourusername/talentscout-chatbot.git
 cd talentscout-chatbot
+```
+
 ### 2. Set up Virtual Environment
+
 ```bash
-Copy
-Edit
 python -m venv venv
 venv\Scripts\activate     # Windows
 # OR
 source venv/bin/activate  # macOS/Linux
+```
+
 ### 3. Install Requirements
+
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
+```
+
 ### 4. Run the Application
+
 ```bash
-Copy
-Edit
 streamlit run app.py
-🧠 Prompt Engineering
+```
+
+---
+
+## 🧠 Prompt Engineering
+
 We used prompt engineering to:
 
-Collect structured candidate information
+- Collect structured candidate information  
+- Ask tech-stack-based questions  
+- Maintain context  
+- Handle fallback responses  
 
-Ask tech-stack-based questions
-
-Maintain context
-
-Handle fallback responses
-
-Sample prompt:
+**Example Prompt:**
 
 ```bash
-Copy
-Edit
 Generate 3 technical questions for a candidate who is skilled in Python and React.
-🧰 Tech Stack
-Python – Core language
+```
 
-Streamlit – UI development
+---
 
-OpenAI GPT-3.5/4 – For intelligent response generation
+## 🧰 Tech Stack
 
-Prompt Engineering – Custom designed LLM prompts
+- Python – Core language  
+- Streamlit – UI development  
+- OpenAI GPT-3.5/4 – For intelligent response generation  
+- Prompt Engineering – Custom designed LLM prompts  
+- GitHub – Version control  
 
-GitHub – Version control
+---
 
-🧩 Challenges & Solutions
-Challenge	Solution
-Stateless UI	Used st.session_state in Streamlit
-Unexpected input from user	Fallback logic with LLM prompt tweaks
-Generating tech-specific questions dynamically	Built flexible prompts and used keyword detection
+## 🧩 Challenges & Solutions
 
-📄 Deliverables
-✅ Source code uploaded on GitHub
+| Challenge                                 | Solution                                     |
+|------------------------------------------|----------------------------------------------|
+| Stateless UI                             | Used `st.session_state` in Streamlit         |
+| Unexpected input from user               | Fallback logic with LLM prompt tweaks        |
+| Generating tech-specific questions       | Dynamic prompt logic with tech detection     |
 
-✅ README.md with setup instructions and prompt design
+---
 
-✅ Streamlit Hosted App
+## 📄 Deliverables
 
-✅ Demo Video on Loom
+- ✅ Source code uploaded on GitHub  
+- ✅ README.md with setup instructions and prompt design  
+- ✅ Streamlit Hosted App  
+- ✅ Demo Video on Loom  
+- ✅ Google Doc with explanation  
+- ✅ Resume and Cover Letter  
 
-✅ Google Doc with explanation
+---
 
-✅ Resume and Cover Letter
+## 📎 Important Links
 
-📎 Important Links
-🔗 GitHub Repo: https://github.com/yourusername/talentscout-chatbot
+- 🔗 GitHub Repo: https://github.com/ankit-nagdeve/talentscout-chatbot  
+- 🔗 Hosted App: https://ankit-nagdeve-talentscout-chatbot-app-kbqevn.streamlit.app/ 
+- 🔗 Demo Video: https://www.loom.com/share/your-demo-link  
+- 🔗 Project Document: https://docs.google.com/document/d/your-doc-link  
+- 📄 Resume: https://yourresume.com/yourresume.pdf  
 
-🔗 Hosted App: https://your-streamlit-app-link.streamlit.app
+---
 
-🔗 Demo Video: https://www.loom.com/share/your-demo-link
+## 👨‍💻 Author
 
-🔗 Project Document: https://docs.google.com/document/d/your-doc-link
-
-📄 Resume: https://yourresume.com/yourresume.pdf
-
-👨‍💻 Author
-Ankit Nagdeve
-Email: ankitnagdeve@example.com
-LinkedIn: https://linkedin.com/in/ankit-nagdeve-980917211
+**Ankit Nagdeve**  
+📧 ankitnagdeve@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/ankit-nagdeve-980917211)
