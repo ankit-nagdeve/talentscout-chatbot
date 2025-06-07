@@ -122,5 +122,5 @@ Generate 3 technical questions for a candidate who is skilled in Python and Reac
 ## 👨‍💻 Author
 
 **Ankit Nagdeve**  
-📧 ankitnagdeve@example.com  
+📧 ankitnagdeve54@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/ankit-nagdeve-980917211)
