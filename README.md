@@ -25,7 +25,7 @@ This project is a **Streamlit-based Hiring Assistant chatbot** developed for the
 ## 🚀 Live Demo
 
 - 🌐 [Streamlit App](https://ankit-nagdeve-talentscout-chatbot-app-kbqevn.streamlit.app/)
-- 🎥 [Loom Video Demo](https://www.loom.com/share/your-demo-link)
+- 🎥 [Loom Video Demo](https://www.loom.com/share/17508a993b274af090d9e52061220070?sid=c5218384-6adb-4707-9c22-26205572e5f2)
 
 ---
 
@@ -113,9 +113,9 @@ Generate 3 technical questions for a candidate who is skilled in Python and Reac
 
 - 🔗 GitHub Repo: https://github.com/ankit-nagdeve/talentscout-chatbot  
 - 🔗 Hosted App: https://ankit-nagdeve-talentscout-chatbot-app-kbqevn.streamlit.app/ 
-- 🔗 Demo Video: https://www.loom.com/share/your-demo-link  
-- 🔗 Project Document: https://docs.google.com/document/d/your-doc-link  
-- 📄 Resume: https://yourresume.com/yourresume.pdf  
+- 🔗 Demo Video: https://www.loom.com/share/17508a993b274af090d9e52061220070?sid=c5218384-6adb-4707-9c22-26205572e5f2  
+- 🔗 Project Document: https://docs.google.com/document/d/1OW2ql-iufsgOGLEFaF0uPLaFNayPrbc2MR5QyuPzeuc/edit?tab=t.0
+- 📄 Resume: (https://drive.google.com/file/d/1XN8NkueFDifIQHubC8bcKM8H5oHhsGFe/view?usp=drive_link)  
 
 ---
 
